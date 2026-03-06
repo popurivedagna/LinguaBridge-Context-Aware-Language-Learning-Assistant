@@ -1,5 +1,5 @@
 # LinguaBridge-Context-Aware-Language-Learning-Assistant
-This project is a real-time sign language translator that converts hand gestures into text using computer vision and machine learning. It detects hand movements through a camera and classifies them into alphabet signs using a trained model. The system helps bridge communication gaps between sign language users and non-signers.
+This project is a simple language translation tool built using Python. It allows users to input text in one language and translate it into another language instantly. The program uses a translation library/API to process the text and return the translated result, making it useful for basic multilingual communication and learning.
 
 
 # LinguaBridge — Context-Aware Language Learning Assistant
